@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teotihuacan: City of the Gods</title>
+    <link>https://YOUR-HOST.example/teotihuacan/</link>
+    <description>Step into one of the ancient world’s greatest cities. This private walking audio tour explores Teotihuacan’s monumental architecture, sacred landscapes, daily life, rise, and collapse — from the Pyramid of the Sun and Avenue of the Dead to the Pyramid of the Moon and Quetzalpapálotl Complex.</description>
+    <language>en</language>
+    <itunes:author>Mauricio Jean</itunes:author>
+    <itunes:summary>Step into one of the ancient world’s greatest cities with this private walking audio tour of Teotihuacan.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="History" />
+    <itunes:image href="https://YOUR-HOST.example/teotihuacan/podcast-cover.jpg" />
+    <itunes:block>yes</itunes:block>
+    <atom:link href="https://YOUR-HOST.example/teotihuacan/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2026 19:15:00 -0600</lastBuildDate>
+    <item>
+      <title>Prologue — Approaching Teotihuacan</title>
+      <description>Begin the tour with an immersive approach to Teotihuacan, setting the scene before entering the ancient city.</description>
+      <itunes:summary>Begin the tour with an immersive approach to Teotihuacan, setting the scene before entering the ancient city.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:06:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-01</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/01-prologue-approaching-teotihuacan.mp3" length="3186018" type="audio/mpeg" />
+      <itunes:duration>3:19</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Teotihuacan — City of the Gods</title>
+      <description>An introduction to Teotihuacan: its scale, people, monumental landscape, and place in the ancient world.</description>
+      <itunes:summary>An introduction to Teotihuacan: its scale, people, monumental landscape, and place in the ancient world.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:07:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-02</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/02-teotihuacan-city-of-the-gods.mp3" length="5906074" type="audio/mpeg" />
+      <itunes:duration>6:09</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pyramid of the Sun</title>
+      <description>Explore Teotihuacan’s largest pyramid, its construction, sacred landscape, and the mysteries beneath the monument.</description>
+      <itunes:summary>Explore Teotihuacan’s largest pyramid, its construction, sacred landscape, and the mysteries beneath the monument.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:08:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-03</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/03-pyramid-of-the-sun.mp3" length="11584892" type="audio/mpeg" />
+      <itunes:duration>12:04</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Avenue of the Dead &amp; the City’s Master Plan</title>
+      <description>Walk through the city’s monumental axis and discover the planning, alignments, architecture, and organization behind Teotihuacan.</description>
+      <itunes:summary>Walk through the city’s monumental axis and discover the planning, alignments, architecture, and organization behind Teotihuacan.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:09:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-04</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/04-avenue-of-the-dead-master-plan.mp3" length="7058007" type="audio/mpeg" />
+      <itunes:duration>7:21</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Ciudadela &amp; Feathered Serpent Pyramid</title>
+      <description>Discover the Ciudadela and the Temple of the Feathered Serpent, including its architecture, symbolism, and archaeological evidence.</description>
+      <itunes:summary>Discover the Ciudadela and the Temple of the Feathered Serpent, including its architecture, symbolism, and archaeological evidence.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:10:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-05</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/05-ciudadela-feathered-serpent.mp3" length="10576792" type="audio/mpeg" />
+      <itunes:duration>11:01</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Community — Life in Teotihuacan</title>
+      <description>Step beyond the monuments to explore apartment compounds, neighborhoods, trade, craft production, and everyday life in the city.</description>
+      <itunes:summary>Step beyond the monuments to explore apartment compounds, neighborhoods, trade, craft production, and everyday life in the city.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:11:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-06</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/06-the-community.mp3" length="7346363" type="audio/mpeg" />
+      <itunes:duration>7:39</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Plaza &amp; Pyramid of the Moon</title>
+      <description>Explore the northern ceremonial heart of Teotihuacan, the Plaza of the Moon, and the pyramid’s long sequence of construction.</description>
+      <itunes:summary>Explore the northern ceremonial heart of Teotihuacan, the Plaza of the Moon, and the pyramid’s long sequence of construction.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:12:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-07</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/07-plaza-pyramid-of-the-moon.mp3" length="9135245" type="audio/mpeg" />
+      <itunes:duration>9:31</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Quetzalpapálotl Complex</title>
+      <description>Explore the richly decorated Quetzalpapálotl complex and what its architecture, murals, and courtyards reveal about elite ceremonial life.</description>
+      <itunes:summary>Explore the richly decorated Quetzalpapálotl complex and what its architecture, murals, and courtyards reveal about elite ceremonial life.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:13:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-08</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/08-quetzalpapalotl-complex.mp3" length="7465075" type="audio/mpeg" />
+      <itunes:duration>7:46</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Collapse of Teotihuacan</title>
+      <description>Examine the evidence surrounding Teotihuacan’s decline, internal conflict, burning, abandonment, and the city’s enduring legacy.</description>
+      <itunes:summary>Examine the evidence surrounding Teotihuacan’s decline, internal conflict, burning, abandonment, and the city’s enduring legacy.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:14:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-09</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/09-collapse-of-teotihuacan.mp3" length="8679662" type="audio/mpeg" />
+      <itunes:duration>9:02</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Final Conclusion</title>
+      <description>Close the walking tour by looking back across Teotihuacan’s monuments, people, mysteries, and influence on later Mesoamerica.</description>
+      <itunes:summary>Close the walking tour by looking back across Teotihuacan’s monuments, people, mysteries, and influence on later Mesoamerica.</itunes:summary>
+      <pubDate>Sun, 09 Aug 2026 19:15:00 -0600</pubDate>
+      <guid isPermaLink="false">teotihuacan-audio-tour-2026-episode-10</guid>
+      <enclosure url="https://YOUR-HOST.example/teotihuacan/episodes/10-final-conclusion.mp3" length="4694416" type="audio/mpeg" />
+      <itunes:duration>4:53</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
